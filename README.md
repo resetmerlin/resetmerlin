@@ -1,28 +1,31 @@
-## 안녕하세요 실용주의 개발자인 조동준입니다.👋
+# 안녕하세요 실용주의 개발자인 조동준입니다.👋
 
 
-#### 🤔이론과 ⚡실용 Sync
-- Backend 
-  - Mongoose 
-    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
-  - Express.js
-    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
+## 🤔이론과 ⚡실용 Sync
 
-- Frontend
-  - React
-    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
-    - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
-  - React Redux 
-    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
-    - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
-  - React Three Fiber
-    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
-  - Scss & css
-    - https://github.com/resetmerlin/advance-css-merlin
+### Backend
+#### Backend 로직을 알기 위한 노력들
+- [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop) 
 
-  - Vanila Js
-    - [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
-    - [류이치 사카모토 fanmade 웹사이트](https://github.com/resetmerlin/sakamotoweb.github.io)
+
+
+### Frontend
+
+  #### 리액트 개발 능력을 키우기 위한 노력들
+  [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
+    - React, React-Redux, React-Three-Fiber
+  [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
+    - React, React-Redux
+  [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
+    - Vanila Ja
+  [류이치 사카모토 fanmade 웹사이트](https://github.com/resetmerlin/sakamotoweb.github.io)
+    - Vanila Ja
+
+  #### 퍼블리싱(Scss & css) 능력을 키우기 위한 노력들
+  https://github.com/resetmerlin/advance-css-merlin
+
+ 
+
     
 
 
