@@ -20,3 +20,6 @@
 
 #### 공부 노트
 [https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
