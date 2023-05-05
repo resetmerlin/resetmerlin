@@ -1,8 +1,11 @@
 ## 안녕하세요 실용주의 개발자인 조동준입니다.👋
 
 
-#### 이론과 실용을 결합한 결과물
-- 🔭 I’m currently working on ...
+#### 이론 & 실용 
+- React Redux 
+  - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
+- React Three Fiber
+  - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
