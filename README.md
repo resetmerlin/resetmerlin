@@ -5,7 +5,7 @@
 - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop) 
 
 ### Frontend 
-  #### 리액트 개발 능력을 키우기 위한 노력들
+  #### Frontend 개발 능력을 키우기 위한 노력들
   - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
     - React, React-Redux, React-Three-Fiber
   - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
