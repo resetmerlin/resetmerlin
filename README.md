@@ -1,7 +1,7 @@
 ## 안녕하세요 실용주의 개발자인 조동준입니다.👋
 
 
-#### 이론과 실용 Sync
+#### 🤔이론과 🌱실용 Sync
 - Backend 
   - Mongoose 
     - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
