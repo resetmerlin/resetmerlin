@@ -1,7 +1,7 @@
-# 안녕하세요 실용주의 개발자인 조동준입니다.👋
+# 안녕하세요 실용주의 개발자가 되기위해 노력하는 조동준입니다.  👋
 
 
-## 🤔이론과 ⚡실용 Sync
+
 
 ### Backend
 #### Backend 로직을 알기 위한 노력들
@@ -9,7 +9,7 @@
 
 
 
-### Frontend
+### Frontend 
 
   #### 리액트 개발 능력을 키우기 위한 노력들
   - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
