@@ -11,9 +11,9 @@
   - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
     - React, React-Redux
   - [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
-    - Vanila Ja
+    - Vanila Js
   - [류이치 사카모토 fanmade 웹사이트](https://github.com/resetmerlin/sakamotoweb.github.io)
-    - Vanila Ja
+    - Vanila Js
 
   #### 퍼블리싱(Scss & css) 능력을 키우기 위한 노력들
   https://github.com/resetmerlin/advance-css-merlin
