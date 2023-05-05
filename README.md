@@ -1,10 +1,7 @@
-### Hi there 👋
+## 안녕하세요 실용주의 개발자인 조동준입니다.👋
 
-<!--
-**resetmerlin/resetmerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+#### 이론과 실용을 결합한 결과물
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### 공부 노트
+https://publish.obsidian.md/resetmerlin
