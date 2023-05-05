@@ -9,6 +9,9 @@
     - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
 
 - Frontend
+  - React
+    - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
+    - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
   - React Redux 
     - [3d로 보는 Nike 스니커즈 Shop](https://github.com/resetmerlin/NikeSnkrShop)
     - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
