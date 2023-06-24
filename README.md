@@ -1,4 +1,4 @@
-## Hi I'm Merlin and currently studying about Frontend Development 👋
+# Hi I'm Merlin and currently studying about Frontend Development 👋
 
 ### Backend
 #### Efforts to learn about Backend Logic 
