@@ -1,5 +1,8 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
+### This is my study note and also a blog
+[https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
+
 ### Backend
 #### Efforts to learn about Backend Logic 
 - [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop) 
@@ -20,8 +23,6 @@
   #### Efforts to enhance my publishing(Scss & css) skills
   https://github.com/resetmerlin/advance-css-merlin
 
-### My Blog
-[https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
 
 #### Time I spent on Coding(wakatime)
 <img src="https://wakatime.com/share/@60e4818e-19d5-478c-9922-4c7fe3366bc4/211a56c1-d8f3-4a4f-b590-978a5a38994e.svg"/>
