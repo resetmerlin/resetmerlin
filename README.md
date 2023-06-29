@@ -2,7 +2,7 @@
 
 
 ### 📚 링크 & 읽을 거리 2023-06-29 
-- Today Topic: [Internal Slots](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Language/JS/ECMAScript+2015/Language+type/Structure+of+Objects/Structue+of+Objects+Elaboration/Internal+Slots+Elaboration/Internal+Slots+Elaboration#4.+myOwnDescOfOriginDesc)
+- Today Topic: [Internal Slots](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Language/JS/ECMAScript+2015/Language+type/Structure+of+Objects/Structue+of+Objects+Elaboration/Internal+Slots+Elaboration/Internal+Slots+Elaboration#1.%20description)
 
 
 ### This is my study note and also a blog
