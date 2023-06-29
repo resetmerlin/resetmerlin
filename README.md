@@ -1,5 +1,10 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
+
+### 📚 링크 & 읽을 거리 2023-06-29 
+- Today Topic: [Internal Slots](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Language/JS/ECMAScript+2015/Language+type/Structure+of+Objects/Structue+of+Objects+Elaboration/Internal+Slots+Elaboration/Internal+Slots+Elaboration#4.+myOwnDescOfOriginDesc)
+
+
 ### This is my study note and also a blog
 [https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
 
@@ -19,9 +24,12 @@
   - [Fandmade Ruyuichi Sakamoto website](https://github.com/resetmerlin/sakamotoweb.github.io)
     - Vanila Js
     
-
   #### Efforts to enhance my publishing(Scss & css) skills
   https://github.com/resetmerlin/advance-css-merlin
+
+
+
+
 
 
 #### Time I spent on Coding(wakatime)
