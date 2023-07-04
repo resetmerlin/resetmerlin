@@ -1,8 +1,8 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-07-02
-- Today Topic: [메시지 시간 기준에 대한 고민](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Portfolio/DLink/Deep+thinking/%EB%A9%94%EC%8B%9C%EC%A7%80+%EA%B8%B0%EB%8A%A5%EC%97%90+%EB%8C%80%ED%95%9C+%EA%B3%A0%EB%AF%BC/%EB%A9%94%EC%84%B8%EC%A7%80+%EC%8B%9C%EA%B0%84%EB%8C%80%EC%97%90+%EB%8C%80%ED%95%9C+%EA%B3%A0%EB%AF%BC)
+### 📚 학습 & 업무 기록지 2023-07-04
+- Today Topic: PENDING...
 - 업무 기록지: [2023-07-04](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Portfolio/DLink/%EC%97%85%EB%AC%B4+%EA%B8%B0%EB%A1%9D/14%EC%A3%BC%EC%B0%A8/2023-07-04)
 
 
