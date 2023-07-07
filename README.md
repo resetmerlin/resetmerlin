@@ -3,7 +3,7 @@
 
 ### 📚 학습 & 업무 기록지 2023-07-07
 - Today Topic: [Amazon EC2 Instance ](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/AWS/EC2/Amazon+EC2+Instance), [React EC2로 배포](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/AWS/EC2/React+EC2+Instance)
-- 업무 기록지: [2023-07-04](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Portfolio/DLink/%EC%97%85%EB%AC%B4+%EA%B8%B0%EB%A1%9D/14%EC%A3%BC%EC%B0%A8/2023-07-04)
+- 업무 기록지: ,,,PENDING
 
 
 ### This is my study note and also a blog
