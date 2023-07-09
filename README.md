@@ -22,7 +22,7 @@
     - React, React-Redux
   - [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
     - Vanila Js
-  - [Fandmade Ruyuichi Sakamoto website](https://github.com/resetmerlin/sakamotoweb.github.io)
+  - [Fan made Ruyuichi Sakamoto website](https://github.com/resetmerlin/sakamotoweb.github.io)
     - Vanila Js
     
   #### Efforts to enhance my publishing(Scss & css) skills
