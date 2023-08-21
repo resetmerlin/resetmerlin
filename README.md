@@ -1,9 +1,9 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-08-08
-- Today Topic: None....ㅠ
-- 업무 기록지: [2023-08-08](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Portfolio/DLink/%EC%97%85%EB%AC%B4+%EA%B8%B0%EB%A1%9D/14%EC%A3%BC%EC%B0%A8/2023-08-08)
+### 📚 학습 & 업무 기록지 2023-08-21
+- Today Topic: [Closures](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Leet+Code/30+Days+of+Javascript/Closures/Closures#When%20to%20use%20closure%20concept%20?)
+- 업무 기록지: [2023-08-21](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-21)
 
 
 ### This is my study note and also a blog
