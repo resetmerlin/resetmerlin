@@ -1,9 +1,9 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-08-23
-- Today Topic: [How the browser renders a website?](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Web/How+the+browser+renders+a+website/How+the+browser+renders+a+website), [let's learn about useCallback hook](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/React/React+hook/useCallback/useCallback)
-- 업무 기록지: [2023-08-23](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-23)
+### 📚 학습 & 업무 기록지 2023-08-25
+- Today Topic: [How Browsers work?](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Web/How+the+browser+renders+a+website/How+the+Browsers+work)
+- 업무 기록지: [2023-08-25](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-25)
 
 
 ### This is my study note and also a blog
