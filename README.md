@@ -1,9 +1,9 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-08-28
-- Today Topic: [dependencies vs devDependencies](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Software+Development/Dependencies+vs+devDependencies/Dependencies)
-- 업무 기록지: [2023-08-28](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-28)
+### 📚 학습 & 업무 기록지 2023-08-30
+- Today Topic: NONE
+- 업무 기록지: [2023-08-30](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-30)
 
 
 ### This is my study note and also a blog
