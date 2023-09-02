@@ -1,9 +1,9 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-08-30
+### 📚 학습 & 업무 기록지 2023-09-01
 - Today Topic: NONE
-- 업무 기록지: [2023-08-30](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/8%EC%9B%94/2023-08-30)
+- 업무 기록지: [2023--09-01](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/9%EC%9B%94/2023-09-01)
 
 
 ### This is my study note and also a blog
