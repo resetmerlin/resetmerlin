@@ -1,9 +1,9 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
 
 
-### 📚 학습 & 업무 기록지 2023-09-01
-- Today Topic: NONE
-- 업무 기록지: [2023--09-01](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/9%EC%9B%94/2023-09-01)
+### 📚 학습 & 업무 기록지 2023-09-06
+- Today Topic: [Redux Tool Kit](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Development+Journey/Programming/Languages/JS/Frameworks+and+Libraries/Libraries/Redux+Toolkit/Redux+Toolkit)
+- 업무 기록지: [2023-09-06](https://publish.obsidian.md/resetmerlin/Merlin's+blog/Progress+Note/9%EC%9B%94/2023-09-06)
 
 
 ### This is my study note and also a blog
