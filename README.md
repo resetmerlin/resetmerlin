@@ -12,14 +12,15 @@
 
 ### Backend
 #### Efforts to learn about Backend Logic 
-- [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop) 
+- [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop)
+- [DLink! Social Networking Service for University students](https://github.com/resetmerlin/2023-1-Team3)
 
 ### Frontend 
 
   #### Efforts to enhance my Frontend development skills
   - [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop)
     - React, React-Redux, React-Three-Fiber
-  - [VISTA! Dating Application](https://github.com/resetmerlin/2023-1-Team3)
+  - [DLink! Social Networking Service for University students](https://github.com/resetmerlin/2023-1-Team3)
     - React, React-Redux
   - [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
     - Vanila Js
