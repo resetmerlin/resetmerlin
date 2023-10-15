@@ -1,15 +1,4 @@
 # Hi I'm Merlin and currently studying about Frontend Development 👋
-
-### 📚 학습 & 업무 기록지 2023-09-28
-- Today Target: [Visualing Memory](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Memory)
-- 업무 기록지: [2023-09-28](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Progress+Note/9%EC%9B%94/2023-09-28)
-
-### My personal website
-[resetmerlin website](https://resetmerlin.onrender.com/)
-
-### This is my study note and also a blog
-[https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
-
 ### Backend
 #### Efforts to learn about Backend Logic 
 - [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop)
@@ -32,7 +21,14 @@
 
 
 
+### 📚 Recent Study
+- [Visualing Memory](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Memory)
+- [Large Object Space](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/Resident+Set/Heap+Memory/Large+object+space(size+limits))
 
+
+### My personal website & Study Note
+- [resetmerlin website](https://resetmerlin.onrender.com/)
+- [https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
 
 
 #### Time I spent on Coding(wakatime)
