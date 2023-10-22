@@ -22,8 +22,8 @@
 
 
 ### 📚 Recent Study
-- [Visualing Memory](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Memory)
-- [Large Object Space](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/Resident+Set/Heap+Memory/Large+object+space(size+limits))
+- [Garbage Collector(Jank Busters part 1)](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+One+%C2%B7+V8)
+- [Garbage Collector(Jank Busters part 2)](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+Two+Orinoco+%C2%B7+V8)
 
 
 ### My personal website & Study Note
