@@ -1,23 +1,6 @@
-# Hi I'm Merlin and currently studying about Frontend Development 👋
-### Backend
-#### Efforts to learn about Backend Logic 
-- [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop)
-- [DLink! Social Networking Service for University students](https://github.com/resetmerlin/2023-1-Team3)
+### Hi I'm Merlin and currently studying about Frontend Development 👋
 
-### Frontend 
-
-  #### Efforts to enhance my Frontend development skills
-  - [3d Nike Snkrs Shop](https://github.com/resetmerlin/NikeSnkrShop)
-    - React, React-Redux, React-Three-Fiber
-  - [DLink! Social Networking Service for University students](https://github.com/resetmerlin/2023-1-Team3)
-    - React, React-Redux
-  - [Ambient Player with Lofi](https://github.com/resetmerlin/Ambient-player)
-    - Vanila Js
-  - [Fan made Ruyuichi Sakamoto website](https://github.com/resetmerlin/sakamotoweb.github.io)
-    - Vanila Js
-    
-  #### Efforts to enhance my publishing(Scss & css) skills
-  https://github.com/resetmerlin/advance-css-merlin
+![merlin (1)](https://github.com/resetmerlin/resetmerlin/assets/108568153/d1d39105-1445-4c49-b046-40dba803c559)
 
 
 
