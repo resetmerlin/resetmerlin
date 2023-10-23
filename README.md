@@ -1,6 +1,5 @@
 ### Hi I'm Merlin and currently studying about Frontend Development 👋
 
-![merlin (1)](https://github.com/resetmerlin/resetmerlin/assets/108568153/d1d39105-1445-4c49-b046-40dba803c559)
 
 
 
