@@ -8,6 +8,7 @@
 - [Garbage Collector(Jank Busters part 2)](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+Two+Orinoco+%C2%B7+V8)
 - [Garbage Collector(Jank Busters part 3)](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/V8+Garbage+Collector)
 - [SSR..PENDING](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Application/SSR/Headless+Chrome+an+answer+to+server-side+rendering+JS+sites+-+Chrome+for+Developers)
+- [How V8 works?](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/How+V8+works%3F)
 
 
 ### My personal website & Study Note
