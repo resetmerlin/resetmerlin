@@ -3,9 +3,12 @@
 
 
 
-### 📚 Recent Study
-- NONE
-
+### 📚 Latest Study
+- [DOM](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Stucture/DOM/DOM)
+- [Garbage Collector part3](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/V8+Garbage+Collector)
+- [Garbage Collector part2](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+Two+Orinoco+%C2%B7+V8)
+- [Garbage Collector part1](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+One+%C2%B7+V8+EN)
+- [V8 Memory Structure](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Memory+Structure/V8+Memory)
 
 ### My personal website & Study Note
 - [resetmerlin website](https://resetmerlin.onrender.com/)
