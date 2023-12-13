@@ -1,5 +1,6 @@
 ### Hi I'm Merlin and currently studying about Frontend Development 👋
 
+![Metrics](/github-metrics.svg)
 
 
 
