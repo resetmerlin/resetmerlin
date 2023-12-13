@@ -6,15 +6,9 @@
 
 ### 📚 Latest Study
 - [DOM](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Stucture/DOM/DOM)
-- [Garbage Collector part3](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/V8+Garbage+Collector)
-- [Garbage Collector part2](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+Two+Orinoco+%C2%B7+V8)
-- [Garbage Collector part1](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Garbage+Collector/Jank+Busters+Part+One+%C2%B7+V8+EN)
-- [V8 Memory Structure](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/V8+Engine/V8+Memory/V8+Memory+Structure/V8+Memory)
 
-### My personal website & Study Note
-- [resetmerlin website](https://resetmerlin.onrender.com/)
-- [https://publish.obsidian.md/resetmerlin](https://publish.obsidian.md/resetmerlin)
-
+### My personal website
+- [personal website](https://resetmerlin.onrender.com/)
 
 #### Time I spent on Coding(wakatime)
 <img src="https://wakatime.com/share/@60e4818e-19d5-478c-9922-4c7fe3366bc4/211a56c1-d8f3-4a4f-b590-978a5a38994e.svg"/>
