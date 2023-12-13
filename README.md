@@ -1,4 +1,7 @@
 ### Hi I'm Merlin and currently studying about Frontend Development 👋
+##### Recent Study
+- [Inside look at modern web browser part 1](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Architecture/Inside+look+at+modern+web+browser/Inside+look+at+modern+web+browser+part+1)
+- [Inside look at modern web browser part 2](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Architecture/Inside+look+at+modern+web+browser/Inside+look+at+modern+web+browser+part+2)
 
 ![Metrics](/github-metrics.svg)
 
