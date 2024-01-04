@@ -1,7 +1,6 @@
 ### Hi I'm Merlin and currently studying about Frontend Development 👋
-##### Recent Study
-- [Inside look at modern web browser part 1](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Architecture/Inside+look+at+modern+web+browser/Inside+look+at+modern+web+browser+part+1)
-- [Inside look at modern web browser part 2](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Web/Browser/Browser+Architecture/Inside+look+at+modern+web+browser/Inside+look+at+modern+web+browser+part+2)
+#### Recent Post
+- [Jank Busters Part One](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-One)
 
 ![Metrics](/github-metrics.svg)
 
