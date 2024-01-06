@@ -1,6 +1,8 @@
-### Hi I'm Merlin and currently studying about Frontend Development 👋
-#### Recent Post
+## Hi I'm Merlin and currently studying about Frontend Development 👋
+### Recent Post
 - [Jank Busters Part One](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-One)
+- [Jank Busters Part Two](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Two)
+- [Jank Busters Part Three](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Three)
 
 ![Metrics](/github-metrics.svg)
 
