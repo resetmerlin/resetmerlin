@@ -3,6 +3,7 @@
 - [Jank Busters Part One](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-One)
 - [Jank Busters Part Two](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Two)
 - [Jank Busters Part Three](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Three)
+- [V8 Memory Visualization Part One](https://blog-two-bay-48.vercel.app/posts/V8-Memory-Visualization-Part-One)
 
 ![Metrics](/github-metrics.svg)
 
