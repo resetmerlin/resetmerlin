@@ -3,10 +3,10 @@
 ## Service: [Scriptmind! note taking app](https://scripmind.com/) 🎉 3982 Page Views!! 🎉
 ### Product Hunt: [#20 rank on Daily Product Hunt ](https://www.producthunt.com/products/scriptmind)
 ### Recent Post
-- [Jank Busters Part One](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-One)
-- [Jank Busters Part Two](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Two)
 - [Jank Busters Part Three](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Three)
 - [V8 Memory Visualization Part One](https://blog-two-bay-48.vercel.app/posts/V8-Memory-Visualization-Part-One)
+### Recent Study
+- [Building and Booting an Operating System](https://publish.obsidian.md/resetmerlin/Merlin's+Blog/Development+Journey/Computer+Science/Operating+System/Building+and+Booting+an+Operating+System/Building+and+Booting+an+Operating+System)
 
 ![Metrics](/github-metrics.svg)
 
