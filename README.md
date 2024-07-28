@@ -1,6 +1,6 @@
 ## Hi I'm Merlin and currently studying about Frontend Development 👋
 ### [Personal Website](https://resetmerlin.onrender.com/)
-## Service: [Scriptmind! note taking app](https://scripmind.com/) 🎉 3982 Page Views!! 🎉
+## Service: [Scriptmind! note taking app](https://scripmind.com/) 🎉 10,736 Page Views!! 🎉
 ### Product Hunt: [#20 rank on Daily Product Hunt ](https://www.producthunt.com/products/scriptmind)
 ### Recent Post
 - [Jank Busters Part Three](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Three)
