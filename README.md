@@ -1,4 +1,4 @@
-## Hi I'm [Merlin]((https://resetmerlin.onrender.com/) and currently studying about Frontend Development 👋
+## Hi I'm [Merlin](https://resetmerlin.onrender.com/) and currently studying about Frontend Development 👋
 ## Service: [Scriptmind! note taking app](https://scripmind.com/) 🎉 10,736 Page Views!! 🎉
 ### Product Hunt: [#20 rank on Daily Product Hunt ](https://www.producthunt.com/products/scriptmind)
 ### Recent Post
