@@ -1,7 +1,5 @@
-<div align=center>
 
 # 👋 Introduction 
-<div align=left>
 
 ### Hi I'm [Merlin](https://resetmerlin.onrender.com/) and currently studying about Frontend Development 
 
@@ -10,25 +8,19 @@
 [📚 My Study Note aka Second Brain](https://publish.obsidian.md/resetmerlin)
 
 
-<div align=center>
 
-# 🚀 Service 
-<div align=left>
+## 🚀 Service 
 
 - [Scriptmind! note taking app](https://scripmind.com/)
   -  🎉 Achievement: 1,943 visitors, 10,736 Page Views, 327 users
   -  [Daily Product Hunt 20th Place](https://www.producthunt.com/products/scriptmind)
-<div align=center>
 
-# 📦 Library
-<div align=left>
+## 📦 Library
 
 
 - [scriptmind-second-brain](https://www.npmjs.com/package/scriptmind-second-brain) 
-<div align=center>
 
-# 📜 History
-<div align=left>
+## 📜 History
 
 ### 2021
 - 단국대학교 경제학과 입학
