@@ -30,10 +30,8 @@
 
 ### 2024
 - 토스 증권 프론트엔드 개발 계약직으로 재직 중
-<div align=center>
 
-# 💬 ETC..
-<div align=left>
+## 💬 ETC..
 
 #### Recent Post
 - [Jank Busters Part Three](https://blog-two-bay-48.vercel.app/posts/Jank-Busters-Part-Three)
