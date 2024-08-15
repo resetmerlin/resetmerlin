@@ -7,7 +7,7 @@
 
 [📚 My Study Note aka Second Brain](https://publish.obsidian.md/resetmerlin)
 
-
+[🎬 My Youtube](https://www.youtube.com/@MerlinsDevelopmentJourne-og7fp)
 
 ## 🚀 Service 
 
