@@ -26,7 +26,7 @@
 - 단국대학교 소프트웨어학과로 전과(Transferred to the Department of Software at Dankook University) 
 ### 2024
 - 단국대학교 소프트웨어학과 휴학 중(Took a leave of absence from the Department of Software at Dankook University)
-- 최초 토스 증권 프론트엔드 개발자 계약직으로 재직 중(Began a contract position as a front-end developer at Toss Securities)
+- 최초 토스 증권 프론트엔드 개발자 계약직으로 재직 중(Began a contract position as a first front-end developer at Toss Securities)
 
 ## 💬 ETC..
 
