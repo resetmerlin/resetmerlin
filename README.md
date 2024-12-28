@@ -13,11 +13,11 @@
 
 
 ## 📜 History
-### 2021(만 18살)
+### 2021
 - 단국대학교 경제학과 입학(Enrolled in the Department of Economics at Dankook University)
-### 2022(만 19살)
+### 2022
 - 단국대학교 소프트웨어학과로 전과(Transferred to the Department of Software at Dankook University) 
-### 2024(만 22살)
+### 2024
 - 단국대학교 소프트웨어학과 휴학 중(Took a leave of absence from the Department of Software at Dankook University)
-- 토스 증권 최초 프론트엔드 개발자 계약직으로 근무(Began a first contract position as a front-end developer at Toss Securities, 2024.04.01 ~ 2024.12.27)
+- 토스 증권 프론트엔드 개발자 계약직으로 근무(Began a first contract position as a front-end developer at Toss Securities, 2024.04.01 ~ 2024.12.27)
 
