@@ -9,8 +9,7 @@
 
 [🎬 My Youtube](https://www.youtube.com/@MerlinsDevelopmentJourne-og7fp)
 
-[resume](https://github.com/user-attachments/files/18265451/Resume.pdf)
-
+[resume](https://github.com/user-attachments/files/18269008/Resume.5.pdf)
 
 ## 📜 History
 ### 2021
