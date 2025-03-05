@@ -5,9 +5,7 @@
 
 <a href="https://wakatime.com/@60e4818e-19d5-478c-9922-4c7fe3366bc4"><img src="https://wakatime.com/badge/user/60e4818e-19d5-478c-9922-4c7fe3366bc4.svg" alt="Total time coded since Jul 3 2022" /></a>
 
-[📚 My Study Note aka Second Brain](https://publish.obsidian.md/resetmerlin)
-
-[🎬 My Youtube](https://www.youtube.com/@MerlinsDevelopmentJourne-og7fp)
+[Tech blog](https://medium.com/@scriptmind.corp)
 
 [resume](https://github.com/user-attachments/files/18269008/Resume.5.pdf)
 
