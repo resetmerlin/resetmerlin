@@ -6,8 +6,7 @@ I always try to maintain a humble attitude. When I step out into society, I real
 
 <a href="https://wakatime.com/@60e4818e-19d5-478c-9922-4c7fe3366bc4"><img src="https://wakatime.com/badge/user/60e4818e-19d5-478c-9922-4c7fe3366bc4.svg" alt="Total time coded since Jul 3 2022" /></a>
 
-[Tech blog](https://medium.com/@scriptmind.corp), [resume](https://github.com/user-attachments/files/18269008/Resume.5.pdf)
-
+[Tech blog](https://medium.com/@scriptmind.corp), [resume](https://github.com/user-attachments/files/20030788/Resume._fina.pdf)
 
 ## 📜 History
 ### 2021
