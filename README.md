@@ -10,7 +10,7 @@ I always try to maintain a humble attitude. When I step out into society, I real
 
 
 [Tech blog](https://medium.com/@resetmerlin),
-[resume](https://github.com/user-attachments/files/20030788/Resume._fina.pdf)
+[resume](https://github.com/user-attachments/files/23279724/Resume.pdf)
 
 ## 📜 History
 ### 2021
