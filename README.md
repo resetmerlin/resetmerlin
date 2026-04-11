@@ -1,5 +1,4 @@
 
-## Hi, I'm Merlin — a frontend engineer
 
 I always try to maintain a humble attitude. When I step out into society, I realize that there are so many truly outstanding people. It’s not that I want to surpass them, but rather, out of genuine respect and admiration, I aspire to grow and become like them.
 
