@@ -7,8 +7,6 @@ I always try to maintain a humble attitude. When I step out into society, I real
 
 Side Projects
 - 2026
-  - September
-    - [Rate Limiting](https://github.com/talmid-mitmared/mitmar-d-rate-limiting): Rate Limit implementation using sliding-window algorithms
   - May
     - [easy-blue-green-deployment](https://github.com/talmid-mitmared/mitmar-d-blue-green-deployment): Blue-Green Deployment with Docker + Nginx
 - 2025
