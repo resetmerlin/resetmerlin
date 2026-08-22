@@ -5,17 +5,3 @@ I always try to maintain a humble attitude. When I step out into society, I real
 
 <a href="https://wakatime.com/@60e4818e-19d5-478c-9922-4c7fe3366bc4"><img src="https://wakatime.com/badge/user/60e4818e-19d5-478c-9922-4c7fe3366bc4.svg" alt="Total time coded since Jul 3 2022" /></a>
 
-Side Projects
-- 2026
-  - September ~ August
-    - [rate-limiting](https://github.com/talmid-mitmared/mitmar-d-rate-limiting): Simple Rate limiting implementation using sliding-window algorithms
-  - May
-    - [easy-blue-green-deployment](https://github.com/talmid-mitmared/mitmar-d-blue-green-deployment): Blue-Green Deployment with Docker + Nginx
-- 2025
-  - March ~ December
-    - [Desktop DB app](https://github.com/talmid-mitmared/mitmar-d-DB): Destop DB application with B-tree 
-  - Jan ~ March,
-    - [WebOs](https://github.com/resetmerlin/Web-OS): Minimal X86 Specs written in TS
-- 2024
-  - September ~ November
-    - [Second Brain](https://github.com/resetmerlin/Second-brain): library for graph based folder structure.
